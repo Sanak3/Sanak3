@@ -1,4 +1,4 @@
-## Olá! Eu sou o Igor 👋
+## Olá! Eu sou o Igor 👋 <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me Gif" height="28">
 
 Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, desenvolvimento de software e cibersegurança. Sempre buscando aprender novas ferramentas e explorar o universo do hacking ético.
 
