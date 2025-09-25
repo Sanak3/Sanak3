@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Igor <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me Gif" height="28">
 
-Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, desenvolvimento de software e cibersegurança. Sempre buscando aprender novas ferramentas e explorar o universo do hacking ético.
+Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, desenvolvimento de software e cibersegurança. Sempre buscando aprender novas ferramentas e explorar o universo do hacking ético.  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFvM2hrdXYxZWtmZnlkcjUwdTdwbTB4dTI4eWt4a3N4MHpiOHM0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif" alt="Mr. Robot Elliot GIF" alt="Descrição" width="150">
 
 
 ### 🚀 Sobre Mim
@@ -43,5 +43,5 @@ Se quiser trocar ideia sobre tecnologia, projetos ou cibersegurança, fique à v
 
 > "É tempo ruim o tempo todo" 🥋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFvM2hrdXYxZWtmZnlkcjUwdTdwbTB4dTI4eWt4a3N4MHpiOHM0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif" alt="Mr. Robot Elliot GIF" alt="Descrição" width="100">
+
 
