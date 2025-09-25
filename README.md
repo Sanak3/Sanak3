@@ -5,8 +5,8 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 
 ### 🚀 Sobre Mim
 
-- 🎓 **Formação:** Engenharia de Software - Inatel
-- 🧑‍💻 **Principal linguagem:** Java                                            https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFvM2hrdXYxZWtmZnlkcjUwdTdwbTB4dTI4eWt4a3N4MHpiOHM0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif
+- 🎓 **Formação:** Engenharia de Software - Inatel            
+- 🧑‍💻 **Principal linguagem:** Java  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFvM2hrdXYxZWtmZnlkcjUwdTdwbTB4dTI4eWt4a3N4MHpiOHM0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif" alt="Mr. Robot Elliot GIF" height="28">                                          
 - 💻 **Também trabalho com:** Python, C++, HTML
 - 🕶️ **Interesse especial:** Cibersegurança e hacking
 
