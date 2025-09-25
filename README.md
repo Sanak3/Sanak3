@@ -19,6 +19,8 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-232F3E?style=for-the-badge&logo=protonvpn&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL Badge](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kali Linux Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Hacker Badge](https://img.shields.io/badge/Hacker-EA1B2F?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 
@@ -37,10 +39,9 @@ Se quiser trocar ideia sobre tecnologia, projetos ou cibersegurança, fique à v
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanak3)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/igor-araujo-f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/igor-araujo-f)
 
 
-![Sanak3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanak3&show_icons=true&theme=radical)
 
 
 > "É tempo ruim o tempo todo" 🥋
