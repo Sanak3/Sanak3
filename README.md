@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, desenvolvimento de software e cibersegurança. Sempre buscando aprender novas ferramentas e explorar o universo do hacking ético.     
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFvM2hrdXYxZWtmZnlkcjUwdTdwbTB4dTI4eWt4a3N4MHpiOHM0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif" alt="Mr. Robot Elliot GIF" alt="Descrição" width="150">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFvM2hrdXYxZWtmZnlkcjUwdTdwbTB4dTI4eWt4a3N4MHpiOHM0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif" alt="Mr. Robot Elliot GIF" alt="Descrição" width="250">
 </div>
 
 ### 🚀 Sobre Mim
