@@ -1,4 +1,4 @@
-## Olá! Eu sou o Sanak3 👋
+## Olá! Eu sou o Igor 👋
 
 Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, desenvolvimento de software e cibersegurança. Sempre buscando aprender novas ferramentas e explorar o universo do hacking ético.
 
