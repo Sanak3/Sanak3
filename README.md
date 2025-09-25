@@ -43,6 +43,8 @@ Se quiser trocar ideia sobre tecnologia, projetos ou cibersegurança, fique à v
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-araujo-f/)
 
+
+
 > "É tempo ruim o tempo todo" 🥋
 
 
