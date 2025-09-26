@@ -8,7 +8,7 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 ### 🚀 Sobre Mim
 
 - 🎓 **Formação:** Engenharia de Software - Inatel            
-- 🧑‍💻 **Principal linguagem:** Java  <img 
+- 🧑‍💻 **Principal linguagem:** Java  
 - 💻 **Também trabalho com:** Python, C++, HTML
 - 🕶️ **Interesse especial:** Cibersegurança e hacking
 
