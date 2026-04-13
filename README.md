@@ -28,12 +28,26 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 
 ### 🌟 Repositórios em Destaque
 
-- [Ze-dos-Livros](https://github.com/C14-2025/Ze-dos-Livros)
-- [C14-atvd-av-01](https://github.com/Sanak3/C14-atvd-av-01)
-- [c14-atividade](https://github.com/Sanak3/c14-atividade)
-- [Projeto_Gerencia](https://github.com/AndreLomb/Projeto_Gerencia)
-- [c14---Eng-Software](https://github.com/Sanak3/c14---Eng-Software)
+### 🌟 Repositórios em Destaque
 
+* **[CRM de Vendas (-machine)](https://github.com/Sanak3/-machine)**
+  <br>
+  [![CRM Leads Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=Sanak3&repo=-machine&theme=dracula&show_icons=true)](https://github.com/Sanak3/-machine)
+  <br><br>
+
+* **[Automação e Hardware Hacking (Cods_Digispark)](https://github.com/Sanak3/Cods_Digispark)**
+  <br>
+  [![Cods Digispark BadUSB Repo](https://github-readme-stats.vercel.app/api/pin/?username=Sanak3&repo=Cods_Digispark&theme=dracula&show_icons=true)](https://github.com/Sanak3/Cods_Digispark)
+  <br><br>
+
+* **[Automação de Web Scraping (Data_Scraper---I.S)](https://github.com/Sanak3/Data_Scraper---I.S)**
+  <br>
+  [![Data Scraper Repo](https://github-readme-stats.vercel.app/api/pin/?username=Sanak3&repo=Data_Scraper---I.S&theme=dracula&show_icons=true)](https://github.com/Sanak3/Data_Scraper---I.S)
+  <br><br>
+
+* **[Testes Unitários em Java (c14-atividade)](https://github.com/Sanak3/c14-atividade)**
+  <br>
+  [![Java Maven JUnit Repo](https://github-readme-stats.vercel.app/api/pin/?username=Sanak3&repo=c14-atividade&theme=dracula&show_icons=true)](https://github.com/Sanak3/c14-atividade)
 
 ### 📫 Contato
 
