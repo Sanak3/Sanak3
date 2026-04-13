@@ -19,22 +19,18 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br>
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2272BB?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-<br>
 ![Nuclei](https://img.shields.io/badge/Nuclei-00599C?style=for-the-badge)
 ![Ffuf](https://img.shields.io/badge/Ffuf-FF0000?style=for-the-badge)
 ![Subfinder](https://img.shields.io/badge/Subfinder-000000?style=for-the-badge)
 ![httpx](https://img.shields.io/badge/httpx-00599C?style=for-the-badge)
-<br>
 ![Ghidra](https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge)
 ![Exiftool](https://img.shields.io/badge/Exiftool-4A4A4A?style=for-the-badge)
 ![Bettercap](https://img.shields.io/badge/Bettercap-2B2B2B?style=for-the-badge)
