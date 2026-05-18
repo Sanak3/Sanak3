@@ -15,7 +15,7 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
   "toolkit": ["Python", "C++", "HTML"],
   "foco": ["Cibersegurança", "Hacking Ético"]
 }
-
+```
 
 ### 🛠️ Tecnologias & Ferramentas
 
