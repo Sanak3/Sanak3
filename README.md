@@ -5,12 +5,16 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=>+Initializing...;>+Focus:+Cybersecurity+%26+Hacking;>+Software+Engineering+Student" alt="Typing SVG" />
 </div>
 
-### 🚀 Sobre Mim
+### $ whoami
 
-- 🎓 **Formação:** Engenharia de Software - Inatel            
-- 🧑‍💻 **Principal linguagem:** Java  
-- 💻 **Também trabalho com:** Python, C++, HTML
-- 🕶️ **Interesse especial:** Cibersegurança e hacking
+```json
+{
+  "nome": "Igor",
+  "formacao": "Engenharia de Software - Inatel",
+  "specializacao": "Java",
+  "toolkit": ["Python", "C++", "HTML"],
+  "foco": ["Cibersegurança", "Hacking Ético"]
+}
 
 
 ### 🛠️ Tecnologias & Ferramentas
