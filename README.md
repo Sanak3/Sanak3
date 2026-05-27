@@ -40,6 +40,14 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 ![Bettercap](https://img.shields.io/badge/Bettercap-000000?style=for-the-badge)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
+### 🏆 Certificações
+
+<div align="left">
+  <a href="https://www.credly.com/badges/5f0cc205-9980-40cf-a92a-bcd4bce4658d/public_url" target="_blank">
+    <img src="ethical-hacker.png" width="150" alt="Cisco Ethical Hacker Badge">
+  </a>
+</div>
+
 ### 🌟 Repositórios em Destaque
 
 - [-machine](https://github.com/Sanak3/-machine)
