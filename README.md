@@ -1,6 +1,6 @@
-## Olá! Eu sou o Igor <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me Gif" height="28">
+## Hello! I'm Igor <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me Gif" height="28">
 
-Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, desenvolvimento de software e cibersegurança. Sempre buscando aprender novas ferramentas e explorar o universo do hacking ético.     
+Software Engineering student at Inatel, passionate about technology, software development, and cybersecurity. Always seeking to learn new tools and explore the ethical hacking universe.  
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=>+Initializing...;>+Focus:+Cybersecurity+%26+Hacking;>+Software+Engineering+Student" alt="Typing SVG" />
 </div>
@@ -9,15 +9,15 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 
 ```json
 {
-  "nome": "Igor",
-  "formacao": "Engenharia de Software - Inatel",
-  "specializacao": "Java",
+  "name": "Igor",
+  "education": "Software Engineering - Inatel",
+  "specialization": "Java",
   "toolkit": ["Python", "C++", "HTML"],
-  "foco": ["Cibersegurança", "Hacking Ético"]
+  "focus": ["Cybersecurity", "Ethical Hacking"]
 }
 ```
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -40,7 +40,7 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 ![Bettercap](https://img.shields.io/badge/Bettercap-000000?style=for-the-badge)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
-### 🏆 Certificações
+### 🏆 Certifications
 
 <div align="left">
   <a href="https://www.credly.com/badges/5f0cc205-9980-40cf-a92a-bcd4bce4658d/public_url" target="_blank">
@@ -48,7 +48,7 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
   </a>
 </div>
 
-### 🌟 Repositórios em Destaque
+### 🌟 Featured Repositories
 
 - [-machine](https://github.com/Sanak3/-machine)
 - [Cods_Digispark](https://github.com/Sanak3/Cods_Digispark)
@@ -56,9 +56,9 @@ Estudante de Engenharia de Software pelo Inatel, apaixonado por tecnologia, dese
 - [c14-atividade](https://github.com/Sanak3/c14-atividade)
 
 
-### 📫 Contato
+### 📫 Contact
 
-Se quiser trocar ideia sobre tecnologia, projetos ou cibersegurança, fique à vontade para conectar!
+If you want to chat about technology, projects, or cybersecurity, feel free to connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanak3)
 
