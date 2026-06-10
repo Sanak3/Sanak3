@@ -50,10 +50,10 @@ Software Engineering student at Inatel, passionate about technology, software de
 
 ### 🌟 Featured Repositories
 
-- [-machine](https://github.com/Sanak3/-machine)
+- [ApiHunter](https://github.com/Sanak3/ApiHunter)
 - [Cods_Digispark](https://github.com/Sanak3/Cods_Digispark)
-- [Data_Scraper---I.S](https://github.com/Sanak3/Data_Scraper---I.S)
-- [c14-atividade](https://github.com/Sanak3/c14-atividade)
+- [Project_QA](https://github.com/Sanak3/Project_QA)
+- [Hacking-Stuff](https://github.com/Sanak3/hacking-stuff)
 
 
 ### 📫 Contact
